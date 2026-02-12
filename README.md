@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Kauan, Desenvolvedor Full Stack em formação.</h1>
+<h2 align="center">Olá! Eu sou o Kauan, Desenvolvedor Full Stack em formação.</h2>
 
 ###
 
