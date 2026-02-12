@@ -1,8 +1,8 @@
-<h2 align="center">Olá! Eu sou o Kauan, Desenvolvedor Full Stack em formação.</h2>
+<h2>Olá! Eu sou o Kauan, Desenvolvedor Full Stack em formação.</h2>
 
 ###
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -20,11 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-<div align="center">
 </div>
 
 ###
