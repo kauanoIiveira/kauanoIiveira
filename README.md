@@ -1,8 +1,4 @@
-### Kauan Barboza
-
-Full-Stack Developer | Systems Development Student at SENAI Diadema
-
-### About
+### About me
 
 I am a Full-Stack Developer studying Systems Development at SENAI Diadema. I work across interface, application logic, and database layers, building software with REST APIs, Firebase integrations, relational data models, and responsive layouts.
 
